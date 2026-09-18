@@ -1,6 +1,5 @@
 
 <p><a href="https://www.pesekmudra.cz/" target="_blank" rel="noopener" title="Website PEŠEK &amp; MUDRA solární systémy"><img src="https://www.pesekmudra.cz/photo-pg-1103---.jpg" alt="GitHub_001" width="1095" height="185" /></a></p>
-<p><a href="https://www.linkedin.com/company/pesek-mudra-solarni-systemy/" target="_blank" rel="noopener" title="LinkedIn PEŠEK C MUDRA solární systémy"><img src="https://www.pesekmudra.cz/photo-pg-1101---.jpg" alt="ikonky_(žluto-bílá)_Kreslicí_plátno_1" width="150" height="38" caption="false" /></a><a href="https://www.youtube.com/@pesekmudra" target="_blank" rel="noopener" title="YouTube PEŠEK &amp; MUDRA solární systémy"><img src="https://www.pesekmudra.cz/photo-pg-1102---.jpg" alt="ikonky_(žluto-bílá)-02" width="150" height="38" caption="false" /></a></p>
 <p>Welcome 👋</p>
 <p></p>
 <p>We are PEŠEK &amp; MUDRA.</p>
